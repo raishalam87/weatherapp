@@ -1,0 +1,14 @@
+/* src/Weather.css */
+.weather {
+    margin-top: 20px;
+  }
+  
+  .weather-icon img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .weather-details {
+    font-size: 18px;
+  }
+  
